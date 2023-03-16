@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HTTP_Proxy_Server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HTTP_Proxy_Server_jar</output-path>
+    <root id="archive" name="HTTP_Proxy_Server.jar">
+      <element id="module-output" name="HTTP_Proxy_Server" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-java-8.0.30.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/mysql-connector-java-8.0.30.jar" />
+    </root>
+  </artifact>
+</component>
